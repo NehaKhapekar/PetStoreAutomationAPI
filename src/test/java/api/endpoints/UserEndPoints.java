@@ -8,7 +8,7 @@ import io.restassured.response.Response;
 
 
 //UserEndPints.java
-// Created for perform Create, Read, Update, Delete requests t the user API.
+// Created for perform Create, Read, Update, Delete requests the user API.
 
 public class UserEndPoints {
 
